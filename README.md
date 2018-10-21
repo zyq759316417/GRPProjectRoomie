@@ -15,7 +15,7 @@ equipment which designed to monitoring the condition of human body and <br>
 the surrounding environment. Therefore, this project is by using a wearable <br> 
 device and external sensors to infer user comfort and attempt to suggest or <br>
 automatically control the user’s immediate environment according to their <br>
-preferences.
+preferences. For more details: [click here](https://github.com/zyq759316417/GRPProjectRoomie/blob/master/PublicDoc/2018.P10.Roomie.pdf)
 
 `Supervisor`: Prapa Rattadilok
 
