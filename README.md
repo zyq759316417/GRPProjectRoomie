@@ -3,7 +3,7 @@
 
 This is the library of UNNC 1819 GRP project 10 (Roomie).
 
-Members: `Ziyang CHENG`, `Yingqin ZHNAG`, `Yiying ZENG`, `Tianyi CHEN`, `Xuhua CONG` and `Peng ZHAO`
+Members: `Ziyang CHENG`, `Yingqin ZHNAG`, `Yiying ZENG`, `Tianyi CHEN`, `Huacong Xu` and `Peng ZHAO`
 
 
 ## Project details
